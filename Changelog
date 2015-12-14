@@ -1,8 +1,11 @@
 Changelog:
+version 0.4.4
+-curtains now actually properly work
+-music stops when game starts
 version 0.4.2.5
 -added a cloud protector
 Version 0.4.2
--curtains work properly
+-curtains work properly (not really)
 Version 0.4.1
 -curtains added but don't really work
 Version 0.4
