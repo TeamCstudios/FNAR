@@ -1,4 +1,9 @@
 Changelog:
+version0.4.7
+-computer battery added. 
+-game over fixed
+-you can now die if your computer battery goes too low
+-revamped office! 
 version 0.4.4
 -curtains now actually properly work
 -music stops when game starts
